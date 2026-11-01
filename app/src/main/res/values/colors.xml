@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Modern Brand Colors -->
+    <color name="brand_primary">#4F46E5</color>
+    <color name="brand_primary_variant">#4338CA</color>
+    <color name="brand_secondary">#06B6D4</color>
+    
+    <!-- State Colors -->
+    <color name="status_connected">#10B981</color>
+    <color name="status_connected_glow">#3310B981</color>
+    <color name="status_disconnected">#64748B</color>
+    <color name="status_disconnected_glow">#2264748B</color>
+    <color name="status_active_action">#4F46E5</color>
+    <color name="status_failed">#EF4444</color>
+
+    <!-- UI Background & Card Colors -->
+    <color name="ui_bg_light">#F8FAFC</color>
+    <color name="ui_bg_dark">#0F172A</color>
+    <color name="card_bg_light">#FFFFFFFF</color>
+    <color name="card_bg_dark">#1E293B</color>
+    <color name="card_stroke_light">#E2E8F0</color>
+    <color name="card_stroke_dark">#334155</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary_light">#0F172A</color>
+    <color name="text_secondary_light">#64748B</color>
+    <color name="text_primary_dark">#F8FAFC</color>
+    <color name="text_secondary_dark">#94A3B8</color>
+    
+    <!-- Social Brands -->
+    <color name="instagram_color">#E1306C</color>
+    <color name="github_color">#24292F</color>
+    <color name="github_color_dark">#F0F6FC</color>
+</resources>
